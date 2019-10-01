@@ -1,7 +1,11 @@
 {
 	"name": "visible-height-css",
 	"version": "1.0.0",
-	"description": "",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/shilangyu/visible-height-css.git"
+	},
+	"description": "Css' `vh`, but working",
 	"main": "index.js",
 	"types": "index.d.ts",
 	"scripts": {
