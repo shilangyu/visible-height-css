@@ -11,7 +11,7 @@ npm i visible-height-css
 ```
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/visible-height-css/web"></script>
+<script src="https://cdn.jsdelivr.net/npm/visible-height-css/web.js"></script>
 ```
 
 ### usage
