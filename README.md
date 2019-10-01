@@ -10,6 +10,10 @@ Its like css' `vh`, but _working_. `vh` stands for 'viewport height' when most o
 npm i visible-height-css
 ```
 
+```html
+<script src="https://cdn.jsdelivr.net/npm/visible-height-css/web"></script>
+```
+
 ### usage
 
 This will set a [css var](https://developer.mozilla.org/en-US/docs/Web/CSS/var) named '--vih'. If no string is passed, defaults to '--visible-height'.
